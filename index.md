@@ -8,7 +8,7 @@ and learning.
 - [Twitter](https://twitter.com/creichert07)
 - [Instagram](https://instagram.com/creichert07)
 
-# Projects & products
+# projects & products
 
 I love to build products. My brother Cody and I have built for commercial
 products to date as [Reichert Brothers](https://reichertbrothers.com):
@@ -20,3 +20,7 @@ products to date as [Reichert Brothers](https://reichertbrothers.com):
 - [SimplyRETS](https://simplyrets.com)
 
 - [CheckaFlip](https://checkaflip.com)
+
+# misc
+
+- [my dotfiles](https://creichert.github.io/dotfiles)
