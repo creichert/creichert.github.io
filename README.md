@@ -23,4 +23,5 @@ products to date as [Reichert Brothers](https://reichertbrothers.com):
 
 # misc
 
-- [my dotfiles](https://creichert.github.io/dotfiles)
+- [my dotfiles](https://creichert.io/dotfiles)
+- [my pgp pubkey](/assets/pgp_pubkey.asc) (also on [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?op=get&search=0x6BFCA9929955929Bshttp://pgp.mit.edu/pks/lookup?op=get&search=0x6BFCA9929955929B))
