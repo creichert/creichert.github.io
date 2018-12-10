@@ -10,7 +10,7 @@ and learning.
 
 # projects & products
 
-I love to build products. My brother Cody and I have built for commercial
+I love to build products. My brother Cody and I have built four commercial
 products to date as [Reichert Brothers](https://reichertbrothers.com):
 
 - [Assertible](https://assertible.com)
