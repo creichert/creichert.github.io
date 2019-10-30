@@ -1,4 +1,6 @@
 
+test assertible deploy
+
 # creichert
 
 My name is Chris. I live in Houston, Texas and spend my days building, reading,
